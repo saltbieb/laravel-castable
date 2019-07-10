@@ -25,7 +25,7 @@
     "php" : "~5.6|~7.0",
     "illuminate/support": "~5.8",
     "illuminate/database": "~5.8",
-    "spinen/laravel-geometry": "^1.0.0"
+    "spinen/laravel-geometry": "^2.0.0"
   },
   "require-dev": {
     "codeclimate/php-test-reporter": "dev-master",
